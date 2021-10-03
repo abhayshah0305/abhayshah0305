@@ -16,8 +16,8 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+🎓 I’m a Software Developer and I have completed my Bachelor of Science in Information Technology. </br>
+👨‍💻 I am passionate about Web Dev, App Dev, DSA and & I enjoy learning new things. </br>
 
 <!--
 
