@@ -19,6 +19,13 @@
 - Received 1 in 550 rare [Community Hero badger](https://www.microsoft.com/skills/azureheroes) from Microsoft for organising meetups, conferences, sharing content and being an active member of the community.
 
 -->
+
+![Abhay's Github stats](https://github-readme-stats.vercel.app/api?username=abhayshah0305&show_icons=true&hide_border=true)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhayshah0305.abhayshah0305)
+
+</br>
+
 <a href="https://www.linkedin.com/in/abhay-shah-a79a931a5/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -33,8 +40,3 @@
 </a>
 
 <br />
-
-![Abhay's Github stats](https://github-readme-stats.vercel.app/api?username=abhayshah0305&show_icons=true&hide_border=true)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhayshah0305.abhayshah0305)
-
