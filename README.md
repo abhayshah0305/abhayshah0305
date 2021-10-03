@@ -22,6 +22,7 @@
 
 ![Abhay's Github stats](https://github-readme-stats.vercel.app/api?username=abhayshah0305&show_icons=true&hide_border=true)
 <br />
+</br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhayshah0305.abhayshah0305)
 
 <a href="https://www.linkedin.com/in/abhay-shah-a79a931a5/">
