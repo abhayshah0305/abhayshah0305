@@ -8,17 +8,17 @@
 📫 Reach me at shahabhay941@gmail.com
 
 
-<!--
+### Technologies and Tools
+<img align="left" title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
+<img align="left" title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" title="NodeJs" alt="NodeJs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" title="GraphQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
+<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" title="Vim" alt="Vim" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 
-### My Experiences 🙌
-- [Developer Advocate (Civo)](http://civo.com) - The first pure play cloud native service powered only by Kubernetes.
+<br /> <br />
 
--->
-<!--
-### Honors & Awards 🏅
-- Received 1 in 550 rare [Community Hero badger](https://www.microsoft.com/skills/azureheroes) from Microsoft for organising meetups, conferences, sharing content and being an active member of the community.
-
--->
 
 ![Abhay's Github stats](https://github-readme-stats.vercel.app/api?username=abhayshah0305&show_icons=true&hide_border=true)
 <br />
