@@ -29,9 +29,9 @@
 <a href="https://twitter.com/AbhaySh0393">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:shahabhay941@gmail.com">
+<!--<a href="mailto:shahabhay941@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+</a>-->
 <a href="https://www.youtube.com/channel/UCDc-rP4-TZXdhqZ9RQiaaaw">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
