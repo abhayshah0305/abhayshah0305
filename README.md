@@ -5,7 +5,7 @@
 🎓 I’m a Software Developer and I have completed my Bachelor of Science in Information Technology. </br>
 👨‍💻 Passionate about Web Dev, DSA and & I enjoy learning new things. </br>
 🌱 Currently trying to improve my DSA and Problem Solving skills. </br>
-📫 Reach me at shahabhay941@gmail.com
+<!-- 📫 Reach me at shahabhay941@gmail.com-->
 
 <!--
 ### Technologies and Tools
