@@ -21,8 +21,7 @@
 <!--![Abhay's Github stats](https://github-readme-stats.vercel.app/api?username=abhayshah0305&show_icons=true&hide_border=true)-->
 <br />
 </br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhayshah0305.abhayshah0305)
-
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhayshah0305.abhayshah0305)-->
 <a href="https://www.linkedin.com/in/abhay-shah-a79a931a5/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
