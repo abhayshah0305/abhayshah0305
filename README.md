@@ -18,7 +18,7 @@
 <br /> <br />
 -->
 
-![Abhay's Github stats](https://github-readme-stats.vercel.app/api?username=abhayshah0305&show_icons=true&hide_border=true)
+<!--![Abhay's Github stats](https://github-readme-stats.vercel.app/api?username=abhayshah0305&show_icons=true&hide_border=true)-->
 <br />
 </br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhayshah0305.abhayshah0305)
