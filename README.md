@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on sharpening my problem-solving skills<br>🌱 I’m currently learning DSA and MERN Web App Development<br>💬 Always open to talking about tech and discussing new idea<br>
+🔭 I’m currently working on sharpening my problem-solving skills<br>🌱 I’m currently learning DSA and MERN Web App Development<br>💬 Always open to talking about tech and discussing new ideas<br>
 
 
 ## 🌐 Socials:
